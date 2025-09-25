@@ -452,3 +452,5 @@ Disabling a vendor: \`https://eu.api.capillarytech.com/api\_gateway/rewards/core
   "x-readme-fauxas": true  
 }  
 \`\`\`  
+
+Reference Doc: https://docs.capillarytech.com/reference/update-vendor-metadata#/
