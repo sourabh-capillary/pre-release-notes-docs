@@ -1,3 +1,5 @@
+Link to Doc: https://docs.capillarytech.com/reference/update-vendor-metadata#/
+
 Enable or Disable a Vendor
 
 A vendor is an external third-party brand you can use to fulfil your rewards. This API allows you to enable or disable a vendor.
@@ -452,5 +454,3 @@ Disabling a vendor: \`https://eu.api.capillarytech.com/api\_gateway/rewards/core
   "x-readme-fauxas": true  
 }  
 \`\`\`  
-
-Reference Doc: https://docs.capillarytech.com/reference/update-vendor-metadata#/
